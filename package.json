@@ -1,0 +1,19 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "api app for weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.: https://github.com/anshraiyani/WeatherApp"
+  },
+  "author": "anshraiyani",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.85.0",
+    "webpack-cli": "^5.1.3"
+  }
+}
